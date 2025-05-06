@@ -1,0 +1,13 @@
+{
+  "loginCred" : {
+    "userName": "Admin",
+    "password": "admin123"
+  },
+  "newUser" : {
+    "role": "Admin",
+    "employeeName": "T",
+    "status": "Enabled",
+    "username": "mahmoud_r",
+    "password": "Aa@123456"
+  }
+}
